@@ -1,3 +1,5 @@
+package pattern;
+
 class PairWithTargetSum {
 
   public static int[] search(int[] arr, int targetSum) {
